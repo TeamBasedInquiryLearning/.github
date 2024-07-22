@@ -1,4 +1,8 @@
-Wiki link: https://github.com/TeamBasedInquiryLearning/library/wiki/
+Homepage: <https://tbil.org>
+
+Main repository: <https://github.com/TeamBasedInquiryLearning/library/>
+
+Wiki link: <https://github.com/TeamBasedInquiryLearning/library/wiki/>
 
 Have feedback for us?  Use the links below:
 * [Discussion](https://github.com/TeamBasedInquiryLearning/library/discussions)
