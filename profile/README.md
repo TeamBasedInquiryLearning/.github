@@ -1,5 +1,5 @@
-Wiki link: https://github.com/TeamBasedInquiryLearning/wiki/wiki/
+Wiki link: https://github.com/TeamBasedInquiryLearning/library/wiki/
 
 Have feedback for us?  Use the links below:
-* Calculus -- Create a [Discussion](https://github.com/TeamBasedInquiryLearning/calculus/discussions) or [Issue](https://github.com/TeamBasedInquiryLearning/calculus/issues)
-* Linear Algebra -- Create a [Discussion](https://github.com/TeamBasedInquiryLearning/linear-algebra/discussions) or [Issue](https://github.com/TeamBasedInquiryLearning/linear-algebra/issues)
+* [Discussion](https://github.com/TeamBasedInquiryLearning/library/discussions)
+* [Issue](https://github.com/TeamBasedInquiryLearning/library/issues)
